@@ -1,0 +1,1 @@
+{"name":"Local: contestA","url":"/Users/saatvikdutta/Desktop/VSCODE/C++/contestA.cpp","tests":[{"id":1771061715047,"input":"3\n5 1 3 2\n100 33 100 1\n6 0 2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/saatvikdutta/Desktop/VSCODE/C++/contestA.cpp","group":"local","local":true}
