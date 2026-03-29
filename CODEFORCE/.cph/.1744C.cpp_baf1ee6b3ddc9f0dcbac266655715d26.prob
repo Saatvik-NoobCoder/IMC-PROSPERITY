@@ -1,1 +1,0 @@
-{"name":"Local: 1744C","url":"/Users/saatvikdutta/Desktop/VSCODE/CODEFORCE/1744C.cpp","tests":[{"id":1774612451391,"input":"6\n5 r\nrggry\n1 g\ng\n3 r\nrrg\n5 y\nyrrgy\n7 r\nrgrgyrg\n9 y\nrrrgyyygy\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/saatvikdutta/Desktop/VSCODE/CODEFORCE/1744C.cpp","group":"local","local":true}
